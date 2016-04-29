@@ -3,6 +3,13 @@
    width: 100%; /* for IE 6 */
 }
 
+h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+}
+
 h2 span { 
    color: white; 
    font: bold 24px/45px Helvetica, Sans-Serif; 
@@ -10,4 +17,7 @@ h2 span {
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.7);
    padding: 10px; 
+}
+h2 span.spacer {
+   padding:0 5px;
 }
