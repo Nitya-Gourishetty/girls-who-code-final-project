@@ -1,7 +1,4 @@
-.image { 
-   position: relative; 
-   width: 100%; 
-}
+
 
 h2 { 
    position: absolute; 
@@ -18,3 +15,4 @@ h2 {
 body {
   background-image: url("http://www.designlovefest.com/wp-content/uploads/downloads/2014/09/desktop_cloud1_DLF-1.jpg"); 
 }
+    
