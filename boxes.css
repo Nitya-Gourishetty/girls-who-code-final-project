@@ -3,4 +3,18 @@
 body {
   background-image: url("http://www.designlovefest.com/wp-content/uploads/downloads/2014/09/desktop_cloud1_DLF-1.jpg"); 
 }
+
     
+.nav > div{
+  background: white; /* #rrggbb */
+  float: left;
+  padding: 10px;
+  border: 4px double orange;
+  border-radius: 4px;
+  
+}
+
+.nav > div:hover {
+  background: orange;
+  
+}
