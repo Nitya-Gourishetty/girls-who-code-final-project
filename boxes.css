@@ -10,7 +10,7 @@ body {
   background: #ffaaee; /* #rrggbb */
   float: left;
   padding: 10px;
-  border:4px double orange;
+  border:4px dashed orange;
   border-radius: 4px;
 }
 
